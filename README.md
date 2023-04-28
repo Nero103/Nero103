@@ -1,6 +1,6 @@
 # 👋 Hello there!
 ## 🔬About Me
-👀 I am Nero Lewis, a Tableau Desktop Specialist (specializing in Python and SQL too), pursuing a role in Data Analytics with a Bachelor's in pstchology (specializing in research and experimentation).
+👀 I am Nero Lewis, a Tableau Desktop Specialist (specializing in Python and SQL too), pursuing a role in Data Analytics with a Bachelor's in pstchology (specializing in research and experimentation). I am new to GitHub and cannot wait to learn more.
 
 🎆 I enjoy contributing and providing innovative ideas to analytical projects, and I am enthusiastic about learning new technologies and sciences. In 2020, I learned the data analytical process as well as Python, R, SQL, and Tableau. Within the following year, I dove deeper into Python, learning Sklearn, Seaborn, Pandas and Numpy. Currently, I am learning artificial neural networking.
 
