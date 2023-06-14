@@ -8,7 +8,7 @@
 
 ❤️ I also enjoy learning and reading new concepts such as medical science, human nature/behaviors, cultures and customs, as well as marketing. 
 
-📫 How to reach me, use my gmail, anlewis@gmail.com 
+📫 How to reach me, use my email, alewi@umich.edu
 
 <!---
 Nero103/Nero103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
