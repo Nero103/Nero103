@@ -1,14 +1,21 @@
-# 👋 Hello there!
-## 🔬About Me
-👀 I am Nero Lewis, a Tableau Desktop Specialist (specializing in Python and SQL too), striving to transition my career into a Data Analytics role. Armed with a Bachelor's in Psychology (specializing in research and experimentation), I am knowledgeable in market research, HR, and the healthcare industry.
+# 👋🏽 Hello there! 
 
-🎆 I enjoy contributing and providing innovative ideas to analytical projects, and I am enthusiastic about learning new technologies and sciences. In 2020, I learned the data analytical process as well as Python, R, SQL, and Tableau. Within the following year, I dove deeper into Python, learning Sklearn, Seaborn, Pandas, SciPy, Statsmodel, and Numpy. Currently, I completed the Google Advanced Data Analytics certificate, which comprised 7 courses on statistical analysis, machine learning, and data science.
+I'm an aspiring data analyst thrilled to share my journey with you. Let me give you a glimpse into who I am and what I bring to the table.
 
-💞️ Aside from technology and science, I am passionate about developing new skills from drawing to creative writing. These were used when I had taken market research in which I created a product, having tested it via various statistical analyses and surveys before deployment, and did an internship in human resources. I also  took to learning the German language, where I reached level three in language comprehension.
+## Background:
+📜 Picture the edgy student in class who rocked flannel shirts, or occasionally all black, but was easy to get along with. That was me and a bit still am! I bring a unique blend of creativity and approachability to the table, making collaboration a breeze. I thrive on brainstorming innovative ideas and bringing them to life in analytical projects. With a Bachelor's in Psychology, specializing in research and experimentation, I've honed my skills in understanding human behavior and delving into the intricacies of data analysis. My journey started with a focus on market research and the healthcare industry, where I learned to dissect data and draw meaningful insights. As a Tableau Desktop Specialist, I've also dabbled in Python and SQL, making me versatile.
 
-❤️ Learning and reading new concepts are a passion of mine such as reading medical science, human nature/behaviors, cultures, and customs, as well as marketing. These topics are especially engaging for me when it involves data, giving me the chance to analyze and understand findings on a deeper level to derive insight to create a meaningful story. 
+## Skills:
+✨ I've constantly fueled my enthusiasm for learning by diving headfirst into various technologies and sciences. In 2020, I embarked on a journey to learn Python, R, SQL, and Tableau. Over that following year, I delved deeper into Python, exploring Sklearn, Seaborn, Pandas, SciPy, Statsmodel, and Numpy. Recently, I completed the Google Advanced Data Analytics certificate, equipping me with the knowledge and hands-on experience in statistical analysis, machine learning, and data science.
 
-📫 I am open to new opportunities in data analytics. If you want to reach me to discuss a new opportunity, collaborate on projects, or just chat, use my email: alewi@umich.edu. I look forward to hearing from you.
+## Interests:
+🔬 Beyond the world of data, I'm a multifaceted individual with diverse interests. From drawing to creative writing, I love exploring new skills. My creative side was put to use during market research, where I crafted and tested a product through statistical analyses and surveys. I've also embarked on learning the German language, reaching a commendable level of comprehension. Then, to top all of this off, I've had three novellas published online in the horror genre.
+
+## Motivation:
+🎯 I'm driven by an insatiable curiosity and a deep love for learning. Topics like medical science, human behavior, cultures, customs, and marketing intrigue me, especially when they involve data. Analyzing and understanding data findings allows me to craft meaningful stories and insights. I'm passionate about unraveling the secrets hidden within data.
+
+## Call to action:
+📧 I'm excited and open to new opportunities in the field of data analytics. Whether you'd like to discuss a potential collaboration, tackle a project, or just have a friendly chat, feel free to reach out to me at alewi@umich.edu. I'm eager to connect and explore the endless possibilities that data analytics has to offer. Let's undertake this data-driven adventure together!
 
 <!---
 Nero103/Nero103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
