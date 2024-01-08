@@ -1,6 +1,6 @@
 # 👋🏽 Hello there! 
 
-I'm an aspiring data analyst thrilled to share my journey with you. Let me give you a glimpse into who I am and what I bring to the table.
+I'm a data analyst thrilled to share my journey with you. Let me give you a glimpse into who I am and what I bring to the table.
 
 ## Background:
 📜 Picture the edgy student in class who rocked flannel shirts, or occasionally all black, but was easy to get along with. That was me and a bit still am! I bring a unique blend of creativity and approachability to the table, making collaboration a breeze. I thrive on brainstorming innovative ideas and bringing them to life in analytical projects. With a Bachelor's in Psychology, specializing in research and experimentation, I've developed my skills in understanding human behavior and biology while delving into and utilizing data analytics. My journey started with a focus on market research and the healthcare industry, where I learned to dissect data and draw meaningful insights. As a Tableau Desktop Specialist, I've also honed my skills in SQL and Python, making me versatile.
