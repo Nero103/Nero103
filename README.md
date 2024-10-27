@@ -1,4 +1,4 @@
-# 👋🏽 Hello there! 
+# 👋 Hello there! 
 
 I'm a data analyst thrilled to share my journey with you. Let me give you a glimpse into who I am and what I bring to the table.
 
