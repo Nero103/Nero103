@@ -1,25 +1,126 @@
-# 👋 Hello there! 
+# 👋 Hello there!
 
-I'm a data analyst thrilled to share my journey with you. Let me give you a glimpse into who I am and what I bring to the table.
+I'm Anthony Lewis AKA Nero, a data analyst and data science graduate student focused on transforming complex datasets into clear, actionable insights through analytics, visualization, and statistical analysis.
 
-## Background:
-📜 Imagine the student who wore red and black flannel that enjoyed gaming, music, and creative writing/drawing. That was me, and in many ways, still is. I bring a mix of creativity, curiosity, and collaboration to every project, thriving in environments where ideas are exchanged freely and brought to life through data. 
+**See below this bio for my projects** ⬇️
 
-Pursuing a Master's in Data Science and holding a Bachelor's in Psychology focused on research and industry/organization, I developed a strong foundation in understanding human behavior, business, and marketing analysis. My career began in market research and healthcare, where I learned to extract meaningful insights from complex data. Since then, I've expanded my toolkit, earning a Tableau Desktop Specialist certification and building proficiency in SQL and Python, making me a well-rounded and adaptable data analyst.
+My background combines business analytics, survey analysis, dashboard development, and Python based data science projects across healthcare, market research, revenue operations, and customer analytics environments.
 
-## Skills:
-✨ I've constantly fueled my enthusiasm for learning by diving headfirst into various technologies and sciences. In 2020, I embarked on a journey to learn Python, R, SQL, and Tableau. Over that following year, I delved deeper into Python, exploring Sklearn, Seaborn, Pandas, SciPy, Statsmodel, and Numpy. Recently, I completed the Google Advanced Data Analytics certificate, equipping me with the knowledge and hands-on experience in statistical analysis, machine learning, and data science.
+# 📊 About Me
 
-## Interests:
-🔬 Beyond the world of data, I'm a multifaceted individual with diverse interests. From drawing to creative writing, I love exploring new skills. My creative side was put to use during market research, where I crafted and tested a product through statistical analyses and surveys. I've also embarked on learning the German language, reaching a commendable level of comprehension. Then, to top all of this off, I've had three novellas published online in the horror genre.
+I’m currently pursuing a Master’s in Data Science and previously earned a Bachelor’s degree in Psychology with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
 
-## Motivation:
-🎯 I'm driven by an insatiable curiosity and a deep love for learning. Topics like medical science, human behavior, cultures, customs, and marketing intrigue me, especially when they involve data. Analyzing and understanding data findings allows me to craft meaningful stories and insights. I'm passionate about unraveling the secrets hidden within data.
+Professionally, I’ve worked in:
+* revenue operations analytics
+* market and client analytics
+* reporting automation
+* business intelligence
+* survey and KPI analysis
 
-## Call to action:
-📧 I'm excited and open to new opportunities in the field of data analytics. Whether you'd like to discuss a potential collaboration, tackle a project, or just have a friendly chat, feel free to reach out to me at alewi@umich.edu. I'm eager to connect and explore the endless possibilities that data analytics has to offer. Let's undertake this data-driven adventure together!
+Across roles at Millennium Systems International, Circana, and Cengage, I’ve built dashboards, automated reporting workflows, validated datasets, analyzed trends, and translated analytical findings into business-facing insights for stakeholders.
 
-<!---
-Nero103/Nero103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy projects that sit at the intersection of:
+* analytics
+* storytelling
+* research
+* visualizationstatistical interpretation
+
+# 🛠️ Technical Skills
+
+## Languages & Analytics
+* Python
+* SQL
+* R (basic/intermediate)
+* DAX
+* Power Query
+
+## Visualization & BI Tools
+* Power BI
+* Tableau
+* Looker Studio
+* Excel
+
+## Python Libraries
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SciPy
+* Scikit-learn
+* Statsmodels
+
+## Additional Tools
+* Salesforce
+* Tableau Prep
+* Snowflake
+* Qualtrics
+* Google Analytics 4
+* HubSpot
+* Databricks (familirity)
+
+# 📈 Areas of Interest
+
+I’m especially interested in:
+* survey analytics
+* business intelligence
+* healthcare analytics
+* predictive modeling
+* statistical testing
+* customer behavior analysis
+* data storytelling
+* visualization and dashboard design
+
+I enjoy taking raw or messy datasets and turning them into structured insights that are easier to understand and act on.
+
+# 🚀 Featured Project Areas
+
+Some of the projects featured below include:
+
+* Healthcare patient satisfaction survey analysis (HCAHPS)
+* Interactive Power BI dashboards
+* Statistical A/B testing
+* Sentiment analysis using machine learning (natural language processing)
+* Multiple Linear Regression (MLR) modeling
+* Marketing and customer analytics
+* Predictive analytics projects using Python
+
+These projects focus heavily on:
+* exploratory data analysis (EDA)
+* survey analysis
+* KPI development
+* statistical interpretation
+* predictive modeling (NLP included)
+* business-focused insight communication
+
+⬇️ My featured repositories and project work are listed below this bio.
+
+# 📚 Certifications & Education
+
+* Master’s in Data Science (in progress)
+* Bachelor’s in Psychology
+* Google Advanced Data Analytics Certificate
+* Tableau Desktop Specialist
+
+# 🎯 Current Focus
+
+Right now, I’m focused on continuing to strengthen my:
+* Python analytics workflows
+* statistical analysis skills
+* machine learning projects
+* survey and business intelligence reporting
+* end-to-end dashboard development
+
+while building a portfolio centered around real-world analytical and business problems.
+
+# 📫 Connect With Me
+
+I’m always open to:
+* analytics opportunities
+* collaboration
+* data discussions
+* dashboard and reporting projects
+* market research and survey analysis work
+
+Feel free to connect or reach out.
+
+---
