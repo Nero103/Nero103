@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# Hello there!
 
 I'm Anthony Lewis AKA Nero, a data analyst and data science graduate student focused on transforming complex datasets into clear, actionable insights through analytics, visualization, and statistical analysis.
 
@@ -6,7 +6,7 @@ I'm Anthony Lewis AKA Nero, a data analyst and data science graduate student foc
 
 My background combines business analytics, survey analysis, dashboard development, and Python based data science projects across healthcare, market research, revenue operations, and customer analytics environments.
 
-# 📊 About Me
+# About Me
 
 I’m currently pursuing a Master’s in Data Science and previously earned a Bachelor’s degree in Psychology with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
 
@@ -25,7 +25,7 @@ I enjoy projects that sit at the intersection of:
 * research
 * visualizationstatistical interpretation
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ## Languages & Analytics
 * Python
@@ -58,7 +58,7 @@ I enjoy projects that sit at the intersection of:
 * HubSpot
 * Databricks (familirity)
 
-# 📈 Areas of Interest
+# Areas of Interest
 
 I’m especially interested in:
 * survey analytics
@@ -72,7 +72,7 @@ I’m especially interested in:
 
 I enjoy taking raw or messy datasets and turning them into structured insights that are easier to understand and act on.
 
-# 🚀 Featured Project Areas
+# Featured Project Areas
 
 Some of the projects featured below include:
 
@@ -92,16 +92,16 @@ These projects focus heavily on:
 * predictive modeling (NLP included)
 * business-focused insight communication
 
-⬇️ My featured repositories and project work are listed below this bio.
+My featured repositories and project work are listed below this bio.
 
-# 📚 Certifications & Education
+# Certifications & Education
 
 * Master’s in Data Science (in progress)
 * Bachelor’s in Psychology
 * Google Advanced Data Analytics Certificate
 * Tableau Desktop Specialist
 
-# 🎯 Current Focus
+# Current Focus
 
 Right now, I’m focused on continuing to strengthen my:
 * Python analytics workflows
@@ -112,7 +112,7 @@ Right now, I’m focused on continuing to strengthen my:
 
 while building a portfolio centered around real-world analytical and business problems.
 
-# 📫 Connect With Me
+# Connect With Me
 
 I’m always open to:
 * analytics opportunities
@@ -122,5 +122,3 @@ I’m always open to:
 * market research and survey analysis work
 
 Feel free to connect or reach out.
-
----
