@@ -29,7 +29,7 @@ I enjoy projects that sit at the intersection of:
 
 ## Languages & Analytics
 * Python
-* SQL
+* SQL (PostgreSQL, SnowSQL, T-SQL)
 * R (basic/intermediate)
 * DAX
 * Power Query
@@ -52,6 +52,7 @@ I enjoy projects that sit at the intersection of:
 ## Additional Tools
 * Salesforce
 * Tableau Prep
+* Alteryx
 * Snowflake
 * Qualtrics
 * Google Analytics 4
@@ -62,6 +63,7 @@ I enjoy projects that sit at the intersection of:
 
 I’m especially interested in:
 * survey analytics
+* client insights
 * business intelligence
 * healthcare analytics
 * predictive modeling
@@ -91,6 +93,7 @@ These projects focus heavily on:
 * statistical interpretation
 * predictive modeling (NLP included)
 * business-focused insight communication
+* automation
 
 My featured repositories and project work are listed below this bio.
 
@@ -99,7 +102,7 @@ My featured repositories and project work are listed below this bio.
 * Master’s in Data Science (in progress)
 * Bachelor’s in Psychology
 * Google Advanced Data Analytics Certificate
-* Tableau Desktop Specialist
+* Salesforce Tableau Desktop Specialist
 
 # Current Focus
 
