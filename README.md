@@ -4,11 +4,11 @@ I'm Anthony Lewis AKA Nero, a data analyst and data science graduate student foc
 
 **See below this bio for my projects** ⬇️
 
-My background combines business analytics, survey analysis, dashboard development, and Python based data science projects across healthcare, market research, revenue operations, and customer analytics environments.
+My background combines business analytics, survey analysis, dashboard development, and Python based data science projects across psychology, healthcare, market research, revenue operations, and customer analytics environments.
 
 # About Me
 
-I’m currently pursuing a Master’s in Data Science and previously earned a Bachelor’s degree in Psychology with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
+I’m currently pursuing a Master’s in Data Science and previously earned a Bachelor’s degree in Psychology, graduating with honors, with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
 
 Professionally, I’ve worked in:
 * revenue operations analytics
