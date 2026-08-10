@@ -8,7 +8,7 @@ My background combines business analytics, survey analysis, dashboard developmen
 
 # About Me
 
-I’m currently pursuing a Master’s in Data Science and previously earned a Bachelor’s degree in Psychology, graduating with honors, with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
+I’m currently pursuing a Master’s in Data Science (heavily focused on statistics and decision theory) and previously earned a Bachelor’s degree in Psychology, graduating with honors, with a focus on research and industrial/organizational psychology. My academic background helped shape the way I approach analytics from a technical perspective and from the standpoint of understanding behavior, trends, decision-making, and communication.
 
 Professionally, I’ve worked in:
 * revenue operations analytics
